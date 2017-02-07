@@ -74,20 +74,20 @@ public:
 //        }
 //        return s;
 //    }
-    string decodeString(string s, int &i) {
+    string decodeString(string s, int *i) {
         string res;
         
-        while (i < s.length() && s[i] != ']') {
-            if (!isdigit(s[i]))
-                res += s[i++];
+        while (*i < s.length() && s[*i] != ']') {
+            if (!isdigit(s[*i]))
+                res += s[(*i)++];
             else {
                 int n = 0;
-                while (i < s.length() && isdigit(s[i]))
-                    n = n * 10 + s[i++] - '0';
+                while (*i < s.length() && isdigit(s[*i]))
+                    n = n * 10 + s[(*i)++] - '0';
                 
-                i++; // '['
+                (*i)++; // '['
                 string t = decodeString(s, i);
-                i++; // ']'
+                (*i)++; // ']'
                 
                 while (n-- > 0)
                     res += t;
@@ -98,7 +98,7 @@ public:
     }
     string decodeString(string s) {
         int i = 0;
-        return decodeString(s, i);
+        return decodeString(s, &i);
     }
 };
 int main() {
