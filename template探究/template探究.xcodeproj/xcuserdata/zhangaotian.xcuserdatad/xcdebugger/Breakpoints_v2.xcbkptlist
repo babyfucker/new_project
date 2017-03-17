@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template&#x63a2;&#x7a76;/main.cpp"
+            timestampString = "511352968.061356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "func(T&amp; s)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "char const* func&lt;char const*&gt;(char const*)"
+                  moduleName = "template&#x63a2;&#x7a76;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangaotian/Desktop/new_project/template%E6%8E%A2%E7%A9%B6/template%E6%8E%A2%E7%A9%B6/main.cpp"
+                  timestampString = "511352968.355695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "int func&lt;int&gt;(int)"
+                  moduleName = "template&#x63a2;&#x7a76;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangaotian/Desktop/new_project/template%E6%8E%A2%E7%A9%B6/template%E6%8E%A2%E7%A9%B6/main.cpp"
+                  timestampString = "511352968.3581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "char func&lt;char&gt;(char)"
+                  moduleName = "template&#x63a2;&#x7a76;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangaotian/Desktop/new_project/template%E6%8E%A2%E7%A9%B6/template%E6%8E%A2%E7%A9%B6/main.cpp"
+                  timestampString = "511352968.361413"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "u** func&lt;u**&gt;(u**)"
+                  moduleName = "template&#x63a2;&#x7a76;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangaotian/Desktop/new_project/template%E6%8E%A2%E7%A9%B6/template%E6%8E%A2%E7%A9%B6/main.cpp"
+                  timestampString = "511352968.36395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template&#x63a2;&#x7a76;/main.cpp"
+            timestampString = "511352968.061356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "template&#x63a2;&#x7a76;/main.cpp"
+            timestampString = "511352968.061356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
